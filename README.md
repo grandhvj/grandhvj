@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Welcome to my GitHub! I'm Varun Raj Grandhi, a B.Sc. Information Technology student at the University of Cincinnati. I specialize in data science, AI, and software development, with a strong background in Python, C++, SQL, and machine learning.
 
 🔭 I’m currently working on a project related to AI Bias in Recruitment & Hiring, analyzing AI's impact on recruitment tools using IBM's AIF360 library.
@@ -18,4 +18,4 @@ Welcome to my GitHub! I'm Varun Raj Grandhi, a B.Sc. Information Technology stud
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love creating YouTube content and sharing insights on AI, tech, and data science!
--->
+
